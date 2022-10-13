@@ -1,9 +1,0 @@
-name: Hello, World!
-on: push
-
-jobs:
-  bulid:
-    name: Greeting
-    runs-on: ubuntu-letest
-    steps:
-      - run: echo "Hello, World!"
